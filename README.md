@@ -64,8 +64,6 @@ while True:
     except:
         c.send("Host Not Found".encode())
 ```
-## Output
-
 
 
 ## Result
