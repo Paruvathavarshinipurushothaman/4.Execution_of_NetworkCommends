@@ -65,6 +65,7 @@ while True:
         c.send("Host Not Found".encode())
 ```
 ## Output
-![output_screenshot]Screenshot 2026-03-16 135248.png  
+"C:\Users\acer\OneDrive\Pictures\Screenshots\Screenshot 2026-03-16 135248.png"
+
 ## Result
 Thus Execution of Network commands Performed 
